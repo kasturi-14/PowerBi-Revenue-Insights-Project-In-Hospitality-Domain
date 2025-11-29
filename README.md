@@ -33,10 +33,11 @@ Table View – Property-wise comparison
 City-wise metrics with Revenue, ADR, Occupancy%, Realisation%, Cancellation%, Average Rating
 
 🛠 Tools Used
-Power BI
-Power Query
-DAX Measures
-Data Modelling
+
+Power BI,
+Power Query,
+DAX Measures,
+Data Modelling,
 Excel (Dataset Source)
 
 💡Key Insights 
