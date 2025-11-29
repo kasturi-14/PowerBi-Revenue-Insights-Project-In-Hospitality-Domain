@@ -27,10 +27,11 @@ DSRN
 Realisation%
 
 ✔ Visuals Included
-Trend Chart – Revenue, ADR & Occupancy across weeks
-Donut Chart – Revenue by category
-Bar + Line Chart – ADR vs Realisation% by booking platform
-Table View – Property-wise comparison
+
+Trend Chart – Revenue, ADR & Occupancy across weeks,
+Donut Chart – Revenue by category,
+Bar + Line Chart – ADR vs Realisation% by booking platform,
+Table View – Property-wise comparison,
 City-wise metrics with Revenue, ADR, Occupancy%, Realisation%, Cancellation%, Average Rating
 
 🛠 Tools Used
