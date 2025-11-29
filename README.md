@@ -5,12 +5,13 @@ It provides insights into Revenue, RevPAR, ADR, Occupancy, Realisation%, and wee
 
 📌 Key KPIs
 
-Revenue	Total revenue generated from rooms
-RevPAR	Revenue Per Available Room
-ADR	Average Daily Rate
-Occupancy%	% of rooms occupied
-DSRN	Daily Sellable Room Nights
-Realisation%	Actual revenue vs expected
+Revenue - Total revenue generated from rooms,
+ADR - Average Daily Rate,
+RevPar - Revenue Per Available Room,
+Occupancy % - % of Rooms Occupied,
+DSRN - Daily Sellable Room Nights,
+Realisation % - Actual Revenue vs Expected
+
 
 📊 Dashboard Features
 
