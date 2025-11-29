@@ -4,7 +4,7 @@ This project is an analytical Power BI dashboard designed to help hotel stakehol
 It provides insights into Revenue, RevPAR, ADR, Occupancy, Realisation%, and weekly trends across multiple cities and room classes.
 
 📌 Key KPIs
-KPI	Description
+
 Revenue	Total revenue generated from rooms
 RevPAR	Revenue Per Available Room
 ADR	Average Daily Rate
