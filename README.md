@@ -13,8 +13,10 @@ DSRN	Daily Sellable Room Nights
 Realisation%	Actual revenue vs expected
 
 📊 Dashboard Features
+
 ✔ Filter Panels
 Filter by City, Room Class, and Date Range
+
 ✔ KPI Summary Cards
 Revenue
 RevPAR
@@ -22,6 +24,7 @@ ADR
 Occupancy%
 DSRN
 Realisation%
+
 ✔ Visuals Included
 Trend Chart – Revenue, ADR & Occupancy across weeks
 Donut Chart – Revenue by category
