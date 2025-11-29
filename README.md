@@ -41,11 +41,11 @@ Data Modelling,
 Excel (Dataset Source)
 
 💡Key Insights 
+
 Mumbai is generating the highest revenue and also has a higher room rate (ADR) compared to other cities.
 Delhi has lower room occupancy, meaning fewer rooms are being filled.
 In Week 24, ADR dropped, which indicates a possible decrease in demand during that week.
 Realisation% changes across booking platforms — for example, direct bookings and OTA bookings perform differently.
 Most of the revenue comes from only two categories, contributing around 62% of total revenue.
 Table View – Property-wise comparison
-
 City-wise metrics with Revenue, ADR, Occupancy%, Realisation%
